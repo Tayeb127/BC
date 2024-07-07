@@ -1,4 +1,4 @@
-# Automated Interaction with an Aerosol Sampling Bag via Bluetooth Low Energy
+# Aerosol Sampling Chamber: Arduino, Python3, React Native, Bluetooth Low Energy
 
 This project controls three valves in an aerosol sampling system:
 
