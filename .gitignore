@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+
+
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+# All iOS directories
+ios/Pods/
+
+# Android/IntelliJ
+android/.gradle/
+android/app/build/
+android/.idea/
+android/local.properties
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# Fastlane
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle
+*.jsbundle
+
+# Expo
+.expo/
+
+# Misc
+*.swp
+*~
+.project
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+*.log
+*.cache
+
+# Ignore build artifacts from TypeScript, Babel, etc.
+dist/
+build/
+out/
+
+# Jest
+coverage/
+
